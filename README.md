@@ -1,5 +1,5 @@
 # MODLAB-Unity
-This is the base game which you must made to make your own unique implementation.
+This is the base game which you must mod to make your own unique implementation.
 
 ## Resources
 These are some resources you can refer to for your project
